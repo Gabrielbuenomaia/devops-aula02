@@ -1,7 +1,8 @@
 # devops-aula02
-Morgan Freeman
+Marck Walbert
 Jonny Deep
 Jim Carrey
 Anne Hathawey
 Sandra Bullock
 Eva Mendes
+Daniel graig
